@@ -1,0 +1,8 @@
+.top{
+    width: 800px;
+    height: max-content;
+    background-color: forestgreen;
+    color: black;
+    text-align: right;
+    display: inline;
+}
