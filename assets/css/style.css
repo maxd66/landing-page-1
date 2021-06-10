@@ -1,8 +1,12 @@
-.top{
-    width: 800px;
-    height: max-content;
-    background-color: forestgreen;
-    color: black;
+.background-green {
+    background-color: darkolivegreen;
+}
+
+.text-right {
     text-align: right;
+}
+
+li {
     display: inline;
+    color: white;
 }
